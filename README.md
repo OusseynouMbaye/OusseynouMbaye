@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working Refonte website natationcnrb<br>👯 I’m looking to collaborate on .Net project and Angular project<br>🤝 I’m looking for help with c#, .Net, Anular, and VueJS <br>🌱 I’m currently learning Angular<br>💬 Ask me about VueJs and Asp.NET<br>⚡ Fun fact : I think I am a Good Swimmer
+🔭 I’m currently working Refonte website natationcnrb<br>👯 I’m looking to collaborate on .Net project and Angular project<br>🤝 I’m looking for help with c#, .Net, Anular, and VueJS <br>🌱 I’m currently learning all langages what i need for my project<br>💬 Ask me about VueJs and Asp.NET<br>⚡ Fun fact : I think I am a Good Swimmer
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/max/1600/0*C-cPP9D2MIyeexAT.gif" />
 
 
